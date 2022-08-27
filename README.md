@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhettre
 - 👀 I’m interested in bitcoin, automation, weight lifting, investing, writing, fasting, and yoga
-- 🌱 I’m currently learning Python / Docker / iOS Development
+- 🌱 I’m currently learning Python / Docker / AWS
 - 📫 Email me at rhett@rhett.blog 
 - 🎥 Find me on YouTube at https://www.youtube.com/c/RhettReisman
 
